@@ -291,7 +291,7 @@ Each shortlisted candidate includes:
 
 ---
 
-# 🚀 Getting Started
+# Getting Started
 
 ## Clone the Repository
 
