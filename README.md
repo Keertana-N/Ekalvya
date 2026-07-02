@@ -96,7 +96,7 @@ J-->K[Streamlit Dashboard]
 
 ---
 
-# 📂 Project Structure
+## Project Structure
 
 ```text
 ekalvya/
@@ -112,7 +112,7 @@ ekalvya/
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 - Python
 - Pandas
@@ -125,7 +125,7 @@ ekalvya/
 
 ---
 
-# 🚀 Quick Start
+## Getting Started
 
 ```bash
 git clone https://github.com/Keertana-N/Ekalvya.git
@@ -141,7 +141,7 @@ streamlit run app.py
 
 ---
 
-# 📈 Results
+## 📈 Results
 
 - Processed **100,000 candidate profiles**
 - Generated **Top 100 ranked candidates**
@@ -151,7 +151,7 @@ streamlit run app.py
 
 ---
 
-# 🔮 Future Work
+## 🔮 Future Work
 
 - Semantic reranking
 - Resume PDF parsing
