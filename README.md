@@ -291,7 +291,7 @@ Each shortlisted candidate includes:
 
 ---
 
-# 🚀 Getting Started
+# Getting Started
 
 ## Clone the Repository
 
@@ -403,3 +403,14 @@ This project was developed as part of the
 ## **Redrob Intelligent Candidate Discovery & Ranking Challenge**
 
 Special thanks to the organizers for providing the dataset and designing a challenge that encouraged reasoning beyond traditional keyword-based candidate search.
+<<<<<<< HEAD
+=======
+
+---
+
+<div align="center">
+
+## ⭐ If you found this project interesting, consider giving it a star!
+
+</div>
+>>>>>>> 543e844f8aefa06971944c96f729acecd2e84e08
